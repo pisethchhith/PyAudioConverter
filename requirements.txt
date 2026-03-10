@@ -1,0 +1,4 @@
+audioop-lts==0.2.2
+pydub==0.25.1
+pyfiglet==1.0.4
+pytest==9.0.2
