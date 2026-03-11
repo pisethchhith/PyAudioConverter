@@ -1,4 +1,4 @@
-# AUDIO CONVERTER
+# PyAudioConverter
 
 ## Convert to any audio type and accept audio file only `.mp3, .aac, .wav, .ogg, .flac, .m4a`
 
